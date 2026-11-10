@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hey, I'm Shaikh Fuzail 👋
 
-<!--
-**fuzail-sk/fuzail-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI & Computer Vision Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building practical software products, full-stack applications, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Full-Stack Development and AI Engineering.
+- 🚀 Building applications using React, Next.js, Node.js, Python and FastAPI.
+- 🤖 Exploring Computer Vision, Generative AI and intelligent systems.
+- 🧠 Strengthening my Data Structures & Algorithms and problem-solving skills.
+- 🏆 2nd Place – Imagino Hackathon 2025 | Smart India Hackathon Finalist.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++, Python, Java, JavaScript
+
+**Frontend**
+- HTML, CSS, React.js, Next.js
+
+**Backend**
+- Node.js, Express.js, FastAPI, REST APIs
+
+**Database**
+- MongoDB
+
+**AI & Computer Vision**
+- YOLO, ByteTrack, Object Detection, Object Tracking
+
+**Tools**
+- Git, GitHub, VS Code, FFmpeg
+
+**AI Development Tools**
+- ChatGPT, Claude, OpenAI
+
+---
+
+## 🚀 Featured Projects
+
+- **ACES Shop** – Full-stack shop management platform with order management, invoice generation and automated email delivery.
+- **RoadLink** – AI-powered traffic analysis system using YOLO, ByteTrack and FastAPI.
+- **Smart Agri** – Farmer assistance and agricultural marketplace platform with crop recommendations and agricultural insights.
+- **Snake and Ladder BFS** – Python-based game implementing Breadth-First Search for optimal path analysis.
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥈 2nd Place – Imagino Hackathon 2025.
+- 🎯 Smart India Hackathon (SIH) Finalist.
+- 👨‍💻 Technical Team Leader – ACES, RMDSSOE.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@fuzail-sk](https://github.com/fuzail-sk)
+- LinkedIn: [Shaikh Fuzail](https://www.linkedin.com/in/shaikh-fuzail-sk/)
+
+---
+
+*Building, learning, and improving one project at a time.*
