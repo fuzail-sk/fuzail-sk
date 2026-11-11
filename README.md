@@ -24,7 +24,7 @@ I'm a Computer Science Engineering student passionate about building practical s
 - Node.js, Express.js, FastAPI, REST APIs
 
 **Database**
-- MongoDB
+- MongoDB,MySQL
 
 **AI & Computer Vision**
 - YOLO, ByteTrack, Object Detection, Object Tracking
