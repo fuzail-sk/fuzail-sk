@@ -18,7 +18,7 @@ I'm a Computer Science Engineering student passionate about building practical s
 - C++, Python, Java, JavaScript
 
 **Frontend**
-- HTML, CSS, React.js, Next.js
+- HTML, CSS, TailwindCSS, React.js, Next.js
 
 **Backend**
 - Node.js, Express.js, FastAPI, REST APIs
