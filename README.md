@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | AI & Computer Vision Enthusiast
 
-I'm a Computer Science Engineering student passionate about building practical software products, full-stack applications, and AI-powered solutions.
+I'm a Computer Science Engineering student building practical real world software products, full-stack applications, and AI-powered solutions.
 
 - 💻 Interested in Full-Stack Development and AI Engineering.
 - 🚀 Building applications using React, Next.js, Node.js, Python and FastAPI.
@@ -30,7 +30,7 @@ I'm a Computer Science Engineering student passionate about building practical s
 - YOLO, ByteTrack, Object Detection, Object Tracking
 
 **Tools**
-- Git, GitHub, VS Code, FFmpeg
+- Git, GitHub, VS Code, FFmpeg,Docker
 
 **AI Development Tools**
 - ChatGPT, Claude, OpenAI
